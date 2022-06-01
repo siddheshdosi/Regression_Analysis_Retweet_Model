@@ -1,0 +1,8 @@
+catboost
+lightgbm
+scikit-optimize
+pandas
+numpy
+nltk
+scikit-learn
+seaborn
